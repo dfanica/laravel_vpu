@@ -10,7 +10,7 @@ $config = array(
     /* Required */
 
     // This will be added to your PATHS, you can add the pear path as well as phpunit
-	// e.g. 'PATHS' => $laravel_dir . ',C:/wamp/PHP,C:/wamp/pear',
+    // e.g. 'PATHS' => $laravel_dir . ',C:/wamp/PHP,C:/wamp/pear',
     'PATHS' => $laravel_dir,
 
     // The directory where the tests reside
