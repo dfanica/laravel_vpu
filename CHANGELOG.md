@@ -5,6 +5,7 @@
 * Contains most features of Visual PHPUnit 2.1.1 (some features may not work)
 * web.config to work with IIS
 * Autocreate a phpunit.xml for Laravel based on the test files selected
+* Select the files you want to exclude from the files list
 
 
 # Original Viasual PHPUnit
